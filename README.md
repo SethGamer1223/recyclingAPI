@@ -17,6 +17,9 @@ The API consists of two parts:
 
 Communication is handled using `ecnet2`, with requests serialized using `textutils.serialize`.
 
+## Installation
+```wget run https://raw.githubusercontent.com/SethGamer1223/recyclingAPI/refs/heads/main/installer.lua```
+
 ----------
 
 # Client API
